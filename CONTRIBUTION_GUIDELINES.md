@@ -27,6 +27,7 @@ For more information about **DATAMIND**, visit [www.datamind.org.uk](https://www
 If you're new to Git or GitHub, we recommend starting with these resources:
 - GitHub's [Guide to Contributing](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 - GitHub [Organizations Overview](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations).
+
 To begin contributing to **DATAMIND-UK**, ensure you:
 - Have a **GitHub account** ([GitHub](https://github.com/)).
 - Are familiar with Git and GitHub workflows (e.g., forking, branching, pull requests).
@@ -44,7 +45,7 @@ In short: be respectful, constructive, and inclusive. DATAMIND-UK is a space for
 ---
 
 ## Creating a Team in DATAMIND-UK
-**DATAMIND-UK** enables structured team collaboration. If you wish to **create a team**, complete the **[team creation form](https://github.com/DATAMIND-UK/.github-private/raw/refs/heads/main/docs/team_creation_form.docx)** and send it to **[datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk)** with the subject **"[GitHub] Team Creation"**.
+**DATAMIND-UK** enables structured team collaboration. If you wish to **create a team**, complete the **[team creation form](https://github.com/DATAMIND-UK/.github-private/raw/refs/heads/main/docs/team_creation_form.docx)** and send it to **[datamind@swansea.ac.uk](mailto:datamind@swansea.ac.uk)** with the subject _"[GitHub] Team Creation"_.
 
 📥 [Download the Team Creation Form](https://github.com/DATAMIND-UK/.github-private/raw/refs/heads/main/docs/team_creation_form.docx)
 
